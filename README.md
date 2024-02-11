@@ -74,7 +74,7 @@ To know more about Naive Bayes algorithm and how it works, visit **[Naive Bayes]
 ## Predicted Results
 This section will show the results from above section. It will show the predicted outcome from using above given algorithms.
 ###
-![predicted-outcome](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-result.PNG)
+![predicted-outcome](https://github.com/KhursheedIram/Disease_Prediction_using_ML/blob/main/imgs/gui-result.PNG)
 # Example
 ![example](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-2.PNG)
 
