@@ -76,5 +76,5 @@ This section will show the results from above section. It will show the predicte
 ###
 ![predicted-outcome](https://github.com/KhursheedIram/Disease_Prediction_using_ML/blob/main/imgs/gui-result.PNG)
 # Example
-![example](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-2.PNG)
+![example](https://github.com/KhursheedIram/Disease_Prediction_using_ML/blob/main/imgs/gui-2.PNG)
 
