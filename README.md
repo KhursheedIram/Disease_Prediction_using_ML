@@ -23,7 +23,7 @@ Now, we will see each section one by one,
 In this section five fields are given to choose various symptoms. 
 ### Example: 
 ###
-![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
+![Symptom Section](https://github.com/KhursheedIram/Disease_Prediction_using_ML/blob/main/imgs/gui-symptoms.PNG)
 ## Algorithm Section
 ### Example of GUI: 
 ![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
